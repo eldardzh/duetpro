@@ -1,13 +1,8 @@
-<div align="center">
+<!-- animated-project-banner -->
+<p align="center"><picture><source media="(max-width: 600px)" srcset="assets/project-banner-mobile.svg"><img src="assets/project-banner.svg" width="100%" alt="DuetPro — your coding agents, one workspace"></picture></p>
+<!-- /animated-project-banner -->
 
-```
-   ██████╗ ██╗   ██╗███████╗████████╗
-   ██╔══██╗██║   ██║██╔════╝╚══██╔══╝
-   ██║  ██║██║   ██║█████╗     ██║
-   ██║  ██║██║   ██║██╔══╝     ██║
-   ██████╔╝╚██████╔╝███████╗   ██║
-   ╚═════╝  ╚═════╝ ╚══════╝   ╚═╝
-```
+<div align="center">
 
 # DuetPro — Agent Fleets for Code
 
